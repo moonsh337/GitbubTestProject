@@ -9,6 +9,7 @@ import android.view.MenuItem
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_main.*
 
+//Github -> andriod studio
 class MainActivity : AppCompatActivity() {
     //Github Update Test
     override fun onCreate(savedInstanceState: Bundle?) {
